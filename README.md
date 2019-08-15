@@ -12,8 +12,6 @@ Resources
 
 * IRC channel: #jsonapi on freenode.net
 * Twitter: @jsonapi
-* Discourse: [http://discuss.jsonapi.org](http://discuss.jsonapi.org)
-
 
 Status
 ------
